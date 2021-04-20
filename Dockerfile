@@ -8,3 +8,4 @@ RUN \
     
 RUN gem install bundler
 RUN gem install rails
+RUN gem install sidekiq
